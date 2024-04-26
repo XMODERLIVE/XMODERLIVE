@@ -21,4 +21,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=xmoderlive&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+Rockbottom 
+hey there you are still here, 
+I am not dead 
+i am working on some projects privately
