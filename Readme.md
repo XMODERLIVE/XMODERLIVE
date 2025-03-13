@@ -16,17 +16,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=xmoderlive&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='[https://meme-api.com/gimme]' style="height: 400px;"/>
 
 ---
 ![](https://visitcount.itsvg.in/api?id=xmoderlive&label=Profile%20Views&color=0&icon=2&pretty=true)
-
-
-
-
-
-
-Rockbottom 
-hey there you are still here, 
-I am not dead 
-i am working on some projects privately
