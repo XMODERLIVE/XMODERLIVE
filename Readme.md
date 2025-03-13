@@ -15,8 +15,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xmoderlive&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='[https://meme-api.com/gimme]' style="height: 400px;"/>
-
 ---
 ![](https://visitcount.itsvg.in/api?id=xmoderlive&label=Profile%20Views&color=0&icon=2&pretty=true)
