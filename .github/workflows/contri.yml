@@ -1,0 +1,33 @@
+name: Update Contribution Image
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs once daily at midnight UTC
+  workflow_dispatch:      # Allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install node-fetch canvas
+
+      - name: Generate contribution image
+        run: node scripts/generate-contrib-image.js ${{ github.repository_owner }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Update contribution graph image" || echo "No changes to commit"
+          git push
