@@ -16,8 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
 </div>
 
-![Contributions](./contributions.png)
-
 ###
 
 <div align="center">
@@ -46,4 +44,5 @@
 </div>
 
 ###
+
 
