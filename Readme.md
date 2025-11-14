@@ -16,6 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
 </div>
 
+![Metrics](/github-metrics.svg)
+
 ###
 
 <div align="center">
@@ -44,5 +46,6 @@
 </div>
 
 ###
+
 
 
