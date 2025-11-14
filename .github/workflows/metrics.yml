@@ -17,10 +17,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: tr7zw
+          user: xmoderlive
           template: classic
           base: header, activity, community, repositories
-          config_timezone: Europe/Berlin
+          config_timezone: India
           
           # Plugins
           plugin_languages: yes
